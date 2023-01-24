@@ -42,10 +42,12 @@ $ npx expo start
 
 ### 📱 Para saber como acessar a aplicação via Expo Mobile, Android Studio ou outra ferramenta, acesse este [link](https://react-native.rocketseat.dev) da Rocketseat, completo para qualquer situação.
 
-<img src='../images/mobile/Splash.png' style='width: 260px' />
-<img src='../images/mobile/Home.png' style='width: 260px' />
-<img src='../images/mobile/NewHabit.png' style='width: 260px' />
-<img src='../images/mobile/SpecificDay.png' style='width: 260px' />
+<div style='display: flex; flex-direction: row; gap: 4px;'>
+  <img src='../images/mobile/Splash.png' style='width: 260px' />
+  <img src='../images/mobile/Home.png' style='width: 260px' />
+  <img src='../images/mobile/NewHabit.png' style='width: 260px' />
+  <img src='../images/mobile/SpecificDay.png' style='width: 260px' />
+</div>
 
 ---
 # 👩‍🚀 Autora
