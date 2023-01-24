@@ -1,26 +1,51 @@
-<img src='./images/Habits.png' style='border-radius: 16px;'/>
+<img src='../images/Habits.png' style='border-radius: 16px;'/>
 <p align='center'>
   <img src="https://img.shields.io/github/license/M-RaquelCS/NLW_Setup?style=social" alt='license'/>
   <img src="https://img.shields.io/github/stars/M-RaquelCS/NLW_Setup?style=social" alt='stars'/>
   <img src="https://img.shields.io/github/last-commit/M-RaquelCS/NLW_Setup?style=social" alt='last commit'/>
 </p>
 
-<h1 align="center" style='font-size: 4rem; font-weight: bold;'>Habits</h1>
-
-<h2>Sobre a aplicação</h2>
-
-O foco do Habits é ser um monitorador de hábitos; Uma aplicação projetada para ajudar o usuário a melhorar a qualidade de vida, de forma autônoma, a partir do cadastro de hábitos e sua ocorrência ao decorrer da semana. Entregando, como resultado, uma tabela com um histórico diário.
-
-<h2>🖼️ Layout</h2>
-
-Você pode visualizar o layout do projeto através deste [link](https://www.figma.com/community/file/1195326661124171197). Você deve ter uma conta no [Figma](https://figma.com) para acessá-lo.
+<h1 align="center" style='font-size: 4rem; font-weight: bold;'>Habits - Mobile</h1>
 
 <h2>🖥️ Tecnologias</h2>
-A listagem de cada tecnologia usada para o desenvolvimento completo da aplicação estará no README na pasta a que se refere:
 
-- [Server](./server/)
-- [Web](./web/)
-- [Mobile](./mobile/)
+O server da aplicação foi desenvolvido com as seguintes tecnologias:
+
+- Typescript
+- [Expo](https://expo.dev)
+- React Native
+- [TailwindCSS](https://tailwindcss.com)
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [Dayjs](https://day.js.org)
+
+<h2>🚀 Como rodar o mobile</h2>
+
+Rode no terminal para instalar as dependências, que pode ver no ```package.json```:
+
+```bash
+$ yarn
+```
+or
+```bash
+$ npm install
+```
+
+Rode no terminal para iniciar a aplicação:
+```bash
+$ yarn start
+```
+or
+```bash
+$ npx expo start
+```
+<h2>🖼️ Demonstração</h2>
+
+### 📱 Para saber como acessar a aplicação via Expo Mobile, Android Studio ou outra ferramenta, acesse este [link](https://react-native.rocketseat.dev) da Rocketseat, completo para qualquer situação.
+
+<img src='../images/mobile/Splash.png' style='width: 260px' />
+<img src='../images/mobile/Home.png' style='width: 260px' />
+<img src='../images/mobile/NewHabit.png' style='width: 260px' />
+<img src='../images/mobile/SpecificDay.png' style='width: 260px' />
 
 ---
 # 👩‍🚀 Autora
